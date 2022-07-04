@@ -1,0 +1,8 @@
+browser firefox
+url https://demoqa.com/
+maintitle ToolsQA
+pagelink https://demoqa.com/
+elementpageheader Elements
+elementspagelink https://demoqa.com/elements
+textBxlink https://demoqa.com/text-box
+sheetname=textdata

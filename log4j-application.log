@@ -1,0 +1,54 @@
+2022-06-30 10:34:30,531  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-06-30 10:34:48,224  INFO [main] Valid:30 - "***********Home Page Displayed***********
+2022-06-30 10:34:50,572  INFO [main] Valid:39 - ***********Element Displayed***********
+2022-06-30 10:34:53,031  INFO [main] Valid:54 - ***********Entered Text is displayed***********
+2022-06-30 15:39:51,407  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-06-30 15:40:05,530  INFO [main] Valid:30 - ***********Home Page Displayed***********
+2022-06-30 15:40:05,531 ERROR [main] Valid:31 - ########## this is just for remembering the error method in log files ###########
+2022-06-30 15:40:05,624 DEBUG [main] Valid:32 - ########## this is just for remembering the debug method in log files ###########
+2022-06-30 15:40:05,624 FATAL [main] Valid:33 - ########## this is just for remembering the fatal method in log files ###########
+2022-06-30 15:40:05,624  WARN [main] Valid:34 - ########## this is just for remembering the warn method in log files ###########
+2022-06-30 15:40:07,977  INFO [main] Valid:43 - ***********Element Displayed***********
+2022-06-30 15:40:11,110  INFO [main] Valid:58 - ***********Entered Text is displayed***********
+2022-06-30 16:52:22,090  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-06-30 16:52:38,950  INFO [main] Valid:30 - ***********Home Page Displayed***********
+2022-06-30 16:52:38,950 ERROR [main] Valid:31 - ########## this is just for remembering the error method in log files ###########
+2022-06-30 16:52:38,951 DEBUG [main] Valid:32 - ########## this is just for remembering the debug method in log files ###########
+2022-06-30 16:52:38,951 FATAL [main] Valid:33 - ########## this is just for remembering the fatal method in log files ###########
+2022-06-30 16:52:38,951  WARN [main] Valid:34 - ########## this is just for remembering the warn method in log files ###########
+2022-06-30 16:52:41,258  INFO [main] Valid:43 - ***********Element Displayed***********
+2022-06-30 16:52:42,683  INFO [main] Valid:58 - ***********Entered Text is displayed***********
+2022-06-30 18:10:04,889  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-06-30 18:10:19,802  INFO [main] Valid:30 - ***********Home Page Displayed***********
+2022-06-30 18:10:19,803 ERROR [main] Valid:31 - ########## this is just for remembering the error method in log files ###########
+2022-06-30 18:10:19,803 DEBUG [main] Valid:32 - ########## this is just for remembering the debug method in log files ###########
+2022-06-30 18:10:19,805 FATAL [main] Valid:33 - ########## this is just for remembering the fatal method in log files ###########
+2022-06-30 18:10:19,807  WARN [main] Valid:34 - ########### this is just for remembering the warn method in log files ############
+2022-06-30 18:10:22,125  INFO [main] Valid:43 - ***********Element Displayed***********
+2022-06-30 18:10:24,210  INFO [main] Valid:58 - ***********Entered Text is displayed***********
+2022-06-30 18:30:16,946  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-06-30 18:30:31,338  INFO [main] Valid:30 - ***********Home Page Displayed***********
+2022-06-30 18:30:31,338 ERROR [main] Valid:31 - ########## this is just for remembering the error method in log files ###########
+2022-06-30 18:30:31,339 DEBUG [main] Valid:32 - ########## this is just for remembering the debug method in log files ###########
+2022-06-30 18:30:31,340 FATAL [main] Valid:33 - ########## this is just for remembering the fatal method in log files ###########
+2022-06-30 18:30:31,340  WARN [main] Valid:34 - ########### this is just for remembering the warn method in log files ############
+2022-06-30 18:30:33,640  INFO [main] Valid:43 - ***********Element Displayed***********
+2022-06-30 18:30:34,981  INFO [main] Valid:58 - ***********Entered Text is displayed***********
+2022-06-30 18:30:35,257 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-06-30 18:30:35,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-06-30 18:30:35,260 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-06-30 18:30:35,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-06-30 18:30:35,261 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/DELL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-06-30 18:30:35,469 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-06-30 18:30:35,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-06-30 18:30:35,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-06-30 18:30:35,471 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-06-30 18:30:35,471 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/DELL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-07-01 17:38:30,341  INFO [main] BaseTest:32 - ***********launching the Firefox Browser***********
+2022-07-01 17:38:44,370  INFO [main] Valid:30 - ***********Home Page Displayed***********
+2022-07-01 17:38:44,371 ERROR [main] Valid:31 - ########## this is just for remembering the error method in log files ###########
+2022-07-01 17:38:44,371 DEBUG [main] Valid:32 - ########## this is just for remembering the debug method in log files ###########
+2022-07-01 17:38:44,371 FATAL [main] Valid:33 - ########## this is just for remembering the fatal method in log files ###########
+2022-07-01 17:38:44,371  WARN [main] Valid:34 - ########### this is just for remembering the warn method in log files ############
+2022-07-01 17:38:47,081  INFO [main] Valid:43 - ***********Element Displayed***********
+2022-07-01 17:38:50,608  INFO [main] Valid:58 - ***********Entered Text is displayed***********
